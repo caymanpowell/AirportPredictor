@@ -168,7 +168,7 @@ Historical and forecast weather information is retrieved from the Open-Meteo API
 
 ## Project Files
 
-### `src/demo.py`
+### `bin/demo.py`
 
 Provides a quick way to train and evaluate the model using the cleaned dataset included in the repository.
 
@@ -196,8 +196,11 @@ AirportPredictor/
 ├── LICENSE
 ├── requirements.txt
 ├── .gitignore
+├── bin/
+│   └── demo.py
+├── docs/
+│   └── DOCUMENTATION.md
 ├── src/
-│   ├── demo.py
 │   ├── get_weather_data.py
 │   ├── preprocessing.py
 │   ├── train_model.py
