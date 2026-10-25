@@ -181,6 +181,8 @@ The model is evaluated using:
 - R-squared
 
 The current model has produced approximately:
+MAE: 6.52
+R2: 0.24
 
 Run with:
 
