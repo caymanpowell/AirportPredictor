@@ -138,9 +138,7 @@ The input features are:
 - Precipitation
 - Wind speed
 
-The output is `AverageWait`, which represents the predicted average CBP processing wait time in minutes.
-
-Because the output is a continuous numerical value, this is a regression problem.
+The output is `AverageWait`, which represents the predicted average CBP processing wait time in minutes. The model is a regression model because the output is a continuous numerical value.
 
 ## Data
 
@@ -209,11 +207,7 @@ AirportPredictor/
 
 ## Limitations
 
-The model is trained using CBP processing data from Charlotte Douglas International Airport and should not be treated as a prediction of TSA security wait times or wait times at other airports.
-
-Future passenger count, flight count, and booth usage are estimated from similar historical records rather than actual future operating data.
-
-Weather forecasts may also change as the requested date approaches.
+The model is trained using CBP processing data from Charlotte Douglas International Airport and should not be treated as a prediction of TSA security wait times or wait times at other airports. Future passenger count, flight count, and booth usage are estimated from similar historical records rather than actual future operating data. Weather forecasts may also change as the requested date approaches.
 
 ## Questions
 
