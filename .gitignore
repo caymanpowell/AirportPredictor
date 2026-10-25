@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+wait_times.csv
+weather_data.csv
+/clean_wait_times.csv
+*.pt
+.env
