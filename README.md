@@ -2,6 +2,7 @@
 
 Airport Wait Time Predictor is a predictive analytics project that forecasts average CBP processing wait times at Charlotte Douglas International Airport (CLT). The project uses historical airport processing data, airport operating conditions, and weather information to estimate future wait times.
 
+Full Project Documentation](docs/DOCUMENTATION.md)
 
 ## Group 9
 
