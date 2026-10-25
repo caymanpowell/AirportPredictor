@@ -49,7 +49,7 @@ This script loads the cleaned data, trains and evaluates the Random Forest regre
 Run:
 
 ```bash
-python src/demo.py
+python bin/demo.py
 ```
 
 This script loads the cleaned data, trains a Random Forest regression model, and evaluates the model using Mean Absolute Error (MAE) and R-squared.
